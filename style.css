@@ -1,0 +1,14 @@
+p {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 32px;
+  position: absolute;
+  left: 50vw;
+  color: #eee;
+  z-index: 1;
+}
+
+* {
+  overflow: hidden;
+  overflow: -moz-hidden-unscrollable;
+}
+/*# sourceMappingURL=style.css.map */
