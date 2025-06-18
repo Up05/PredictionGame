@@ -1,5 +1,6 @@
 # PredictionGame
 
+![image](https://github.com/user-attachments/assets/cffd0004-0bbb-42c3-85be-0e1a99bdbaa8)
 
 
 # Wallpaper of this
