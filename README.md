@@ -1,6 +1,8 @@
 # PredictionGame
-# A small game i made, the rep is mostly for twitter
 
+
+
+# Wallpaper of this
 if you'd like to get the wallpaper... well, good luck
 
 get the files, go into index.js and change the `createCanvas(window.innerWidth, window.innerHeight)` to `createCanvas(1920, 1080)` or whatever is your resolution.
